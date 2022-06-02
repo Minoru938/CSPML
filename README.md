@@ -3,6 +3,9 @@
 CSPML is a unique methodology for the crystal structure prediction (CSP) that relies on a machine learning algorithm (binary classification neural network model). CSPML predicts a stable structure
 for any given query composition, by automatically selecting from a crystal structure database a set of template crystals with nearly identical stable structures to which atomic substitution is to
 be applied. Pre-trained models are used to select the template crystals. The 33,153 stable compounds (all candidate crystals; obtained from the [Materials Project](https://materialsproject.org) database) and the pre-trained models are embedded in CSPML.
+
+For more details, please see our paper:
+[Crystal structure prediction with machine learning-based element substitution](https://doi.org/10.1016/j.commatsci.2022.111496) (Accepted 3 May 2022).
  
 # Dependencies
  
