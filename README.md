@@ -37,6 +37,10 @@ Note: Due to the size of this repository (about 500MB), this operation can take 
 * Python 3.8.8
 * macOS Big Sur version 11.6
 
+# Addition of the latest version of CSPML (2024/07/09)
+
+The latest version of CSPML has been added to this repository as the file "CSPML_latest_codes." This file contains the CSPML training codes, which addressed bias in training data with an updated TensorFlow environment. Please refer to read_me.txt in this file for details on usage. This file corresponds to the result of the paper "[Shotgun crystal structure prediction using machine-learned formation energies](https://arxiv.org/abs/2305.02158)". See the "Details of the CSPML model" section in the paper's supplementary information for details.If you want to use CSPML for actual crystal structure prediction or as a comparison method, I recommend using this version of CSPML.
+
 # Reference
 
 1. [Materials Project]: A. Jain, S. P. Ong, G. Hautier, W. Chen, W. D. Richards, S. Dacek, S. Cholia, D. Gunter, D. Skinner, G. Ceder, et al., Commentary: The materials project:
