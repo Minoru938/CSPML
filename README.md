@@ -39,7 +39,7 @@ Note: Due to the size of this repository (about 500MB), this operation can take 
 
 # Addition of the latest version of CSPML (2024/07/09)
 
-The latest version of CSPML has been added to this repository as the file "CSPML_latest_codes." This file contains the CSPML training codes, which addressed bias in training data with an updated TensorFlow environment. Please refer to read_me.txt in this file for details on usage. This file corresponds to the result of the paper "[Shotgun crystal structure prediction using machine-learned formation energies](https://arxiv.org/abs/2305.02158)". See the "Details of the CSPML model" section in the paper's supplementary information for details. If you want to use CSPML for actual crystal structure prediction or as a comparison method, I recommend using this version of CSPML.
+The latest version of CSPML has been added to this repository as the file "CSPML_latest_codes." This file contains the CSPML training codes, which addressed bias in training data with an updated TensorFlow environment. Please refer to read_me.txt in this file for details on usage. This file corresponds to the result of the paper "[Shotgun crystal structure prediction using machine-learned formation energies](https://doi.org/10.1038/s41524-024-01471-8)". See the "Details of the CSPML model" section in the paper's supplementary information for details. If you want to use CSPML for actual crystal structure prediction or as a comparison method, I recommend using this version of CSPML.
 
 # Reference
 
